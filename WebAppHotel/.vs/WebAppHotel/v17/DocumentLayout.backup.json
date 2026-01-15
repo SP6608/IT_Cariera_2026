@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\Data\\Migrations\\20260115203911_CreateDbm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAppHotel\\Data\\Migrations\\20260115203911_CreateDbm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51263BD-68C2-4772-971B-20E5EDD9EFB4}|WebAppHotel\\WebAppHotel.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\webapphotel\\webapphotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A51263BD-68C2-4772-971B-20E5EDD9EFB4}|WebAppHotel\\WebAppHotel.csproj|solutionrelative:webapphotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51263BD-68C2-4772-971B-20E5EDD9EFB4}|WebAppHotel\\WebAppHotel.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\webapphotel\\webapphotel\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51263BD-68C2-4772-971B-20E5EDD9EFB4}|WebAppHotel\\WebAppHotel.csproj|solutionrelative:webapphotel\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51263BD-68C2-4772-971B-20E5EDD9EFB4}|WebAppHotel\\WebAppHotel.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\webapphotel\\webapphotel\\views\\reservations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51263BD-68C2-4772-971B-20E5EDD9EFB4}|WebAppHotel\\WebAppHotel.csproj|solutionrelative:webapphotel\\views\\reservations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51263BD-68C2-4772-971B-20E5EDD9EFB4}|WebAppHotel\\WebAppHotel.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\webapphotel\\webapphotel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51263BD-68C2-4772-971B-20E5EDD9EFB4}|WebAppHotel\\WebAppHotel.csproj|solutionrelative:webapphotel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51263BD-68C2-4772-971B-20E5EDD9EFB4}|WebAppHotel\\WebAppHotel.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\webapphotel\\webapphotel\\views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51263BD-68C2-4772-971B-20E5EDD9EFB4}|WebAppHotel\\WebAppHotel.csproj|solutionrelative:webapphotel\\views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51263BD-68C2-4772-971B-20E5EDD9EFB4}|WebAppHotel\\WebAppHotel.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\webapphotel\\webapphotel\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51263BD-68C2-4772-971B-20E5EDD9EFB4}|WebAppHotel\\WebAppHotel.csproj|solutionrelative:webapphotel\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260115203911_CreateDbm.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\Data\\Migrations\\20260115203911_CreateDbm.cs",
+              "RelativeDocumentMoniker": "WebAppHotel\\Data\\Migrations\\20260115203911_CreateDbm.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\Data\\Migrations\\20260115203911_CreateDbm.cs",
+              "RelativeToolTip": "WebAppHotel\\Data\\Migrations\\20260115203911_CreateDbm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T20:39:11.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppHotel\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\appsettings.json",
+              "RelativeToolTip": "WebAppHotel\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T20:37:48.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\Views\\Rooms\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppHotel\\Views\\Rooms\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\Views\\Rooms\\Index.cshtml",
+              "RelativeToolTip": "WebAppHotel\\Views\\Rooms\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T22:32:27.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppHotel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAppHotel\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T22:29:27.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\Views\\Reservations\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppHotel\\Views\\Reservations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\Views\\Reservations\\Index.cshtml",
+              "RelativeToolTip": "WebAppHotel\\Views\\Reservations\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T22:29:08.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\Views\\Reservations\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppHotel\\Views\\Reservations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\Views\\Reservations\\Create.cshtml",
+              "RelativeToolTip": "WebAppHotel\\Views\\Reservations\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T22:29:04.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAppHotel\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotel\\WebAppHotel\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAppHotel\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T22:28:18.222Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

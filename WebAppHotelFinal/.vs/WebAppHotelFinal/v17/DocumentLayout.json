@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\webapphotelfinal\\webapphotelfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|solutionrelative:webapphotelfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\webapphotelfinal\\webapphotelfinal\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|solutionrelative:webapphotelfinal\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\webapphotelfinal\\webapphotelfinal\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|solutionrelative:webapphotelfinal\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\webapphotelfinal\\webapphotelfinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|solutionrelative:webapphotelfinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\webapphotelfinal\\webapphotelfinal\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|solutionrelative:webapphotelfinal\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\webapphotelfinal\\webapphotelfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|solutionrelative:webapphotelfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\webapphotelfinal\\webapphotelfinal\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|solutionrelative:webapphotelfinal\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\webapphotelfinal\\webapphotelfinal\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9851807-38FE-4248-AF52-BE26FAF6CFF7}|WebAppHotelFinal\\WebAppHotelFinal.csproj|solutionrelative:webapphotelfinal\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WebAppHotelFinal\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WebAppHotelFinal\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:01:13.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAppHotelFinal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAppHotelFinal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T21:01:00.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppHotelFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\Program.cs",
+              "RelativeToolTip": "WebAppHotelFinal\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T20:58:00.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppHotelFinal\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\appsettings.json",
+              "RelativeToolTip": "WebAppHotelFinal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T20:57:51.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "WebAppHotelFinal\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "WebAppHotelFinal\\Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAkwLIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T19:53:23.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "WebAppHotelFinal\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "WebAppHotelFinal\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAwHcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T19:51:50.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\Views\\Clients\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppHotelFinal\\Views\\Clients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\Views\\Clients\\Index.cshtml",
+              "RelativeToolTip": "WebAppHotelFinal\\Views\\Clients\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T19:42:18.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "WebAppHotelFinal\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\WebAppHotelFinal\\WebAppHotelFinal\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "WebAppHotelFinal\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwEUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T19:40:20.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
