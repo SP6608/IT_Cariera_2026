@@ -1,0 +1,82 @@
+﻿@model IEnumerable<EventuresApp.Models.EventAllViewModel>
+
+@{
+    ViewData["Title"] = "All Events";
+    decimal totalSales = 0;
+
+    if (Model != null)
+    {
+        foreach (var e in Model)
+        {
+            totalSales += e.TotalTickets * e.PricePerTicket;
+        }
+    }
+}
+
+<div class="d-flex align-items-center justify-content-between mb-3">
+    <h1 class="h3 mb-0">All Events</h1>
+
+    @if (User.Identity?.IsAuthenticated ?? false)
+    {
+        <a class="btn btn-primary" asp-controller="Events" asp-action="Create">
+            + Create Event
+        </a>
+    }
+</div>
+
+<div class="card shadow-sm">
+    <div class="card-body p-0">
+        <div class="table-responsive">
+            <table class="table table-striped table-hover align-middle mb-0">
+                <thead class="table-light">
+                    <tr>
+                        <th class="ps-3">Name</th>
+                        <th>Place</th>
+                        <th class="text-center">Start</th>
+                        <th class="text-center">End</th>
+                        <th class="text-end">Price</th>
+                        <th class="text-end">Revenue</th>
+                        <th class="text-end pe-3">Owner</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @if (Model == null || !Model.Any())
+                    {
+                        <tr>
+                            <td colspan="7" class="text-center text-muted py-4">
+                                No events yet.
+                            </td>
+                        </tr>
+                    }
+                    else
+                    {
+                        foreach (var e in Model)
+                        {
+                            <tr>
+                                <td class="ps-3 fw-semibold">@e.Name</td>
+                                <td>@e.Place</td>
+                                <td class="text-center">@e.Start</td>
+                                <td class="text-center">@e.End</td>
+                                <td class="text-end">@e.PricePerTicket.ToString("N2") лв.</td>
+                                <td class="text-end">@((e.PricePerTicket * e.TotalTickets).ToString("N2")) лв.</td>
+                                <td class="text-end pe-3">
+                                    <span class="badge bg-secondary">@e.Owner</span>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+
+                <tfoot class="table-light">
+                    <tr>
+                        <th colspan="6" class="text-end">Total Sales:</th>
+                        <th class="text-end pe-3 fw-bold">
+                            @totalSales.ToString("N2") лв.
+                        </th>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+    </div>
+</div>

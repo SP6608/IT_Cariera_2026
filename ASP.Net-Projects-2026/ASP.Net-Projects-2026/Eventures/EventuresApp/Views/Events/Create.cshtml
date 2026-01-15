@@ -1,0 +1,111 @@
+﻿@model Event
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Event</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+<<<<<<< HEAD
+
+<form asp-action="Create" asp-controller="Events" method="post">
+    @Html.AntiForgeryToken()
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Place"></label>
+        <input asp-for="Place" class="form-control" />
+        <span asp-validation-for="Place" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Start"></label>
+        <input asp-for="Start" type="datetime-local" class="form-control" />
+        <span asp-validation-for="Start" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="End"></label>
+        <input asp-for="End" type="datetime-local" class="form-control" />
+        <span asp-validation-for="End" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TotalTickets"></label>
+        <input asp-for="TotalTickets" class="form-control" />
+        <span asp-validation-for="TotalTickets" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PricePerTicket"></label>
+        <input asp-for="PricePerTicket" class="form-control" />
+        <span asp-validation-for="PricePerTicket" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+=======
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Place" class="control-label"></label>
+                <input asp-for="Place" class="form-control" />
+                <span asp-validation-for="Place" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Start" class="control-label"></label>
+                <input asp-for="Start" class="form-control" />
+                <span asp-validation-for="Start" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="End" class="control-label"></label>
+                <input asp-for="End" class="form-control" />
+                <span asp-validation-for="End" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalTickets" class="control-label"></label>
+                <input asp-for="TotalTickets" class="form-control" />
+                <span asp-validation-for="TotalTickets" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PricePerTicket" class="control-label"></label>
+                <input asp-for="PricePerTicket" class="form-control" />
+                <span asp-validation-for="PricePerTicket" class="text-danger"></span>
+            </div>
+          
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+>>>>>>> 551a36c7a89937b4d508c8f107438518b7cac37b
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
