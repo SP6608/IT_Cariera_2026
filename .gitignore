@@ -2,3 +2,17 @@
 **/bin/
 **/obj/
 *.zip
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+nul
+.vs/
+bin/
+obj/
+*/bin/
+*/obj/
+*/*.csproj.user
+*.user
+*.suo

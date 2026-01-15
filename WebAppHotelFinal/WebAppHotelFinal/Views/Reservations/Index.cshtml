@@ -1,0 +1,62 @@
+﻿@model IEnumerable<WebAppHotelFinal.Models.Reservation>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Направени резервации</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary mb-3">
+        Create New
+    </a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Room)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Client)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateIn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOut)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalPrice)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Room.NumberRoom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Client.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateIn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOut)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalPrice)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
