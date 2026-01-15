@@ -16,3 +16,23 @@ obj/
 */*.csproj.user
 *.user
 *.suo
+
+### AUTO-GENERATED: dotnet+vs ignore ###
+.vs/
+**/.vs/
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.log
+
+# Windows reserved name accidents
+nul
+
+# Archives (recommended to keep out of git; use Releases/Drive/LFS)
+*.zip
+*.rar
+*.7z
+### END AUTO-GENERATED ###
