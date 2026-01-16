@@ -167,14 +167,14 @@ namespace WebAppHotelFinal.Migrations
                             Id = "ROLE_ADMIN",
                             Name = "Admin",
                             NormalizedName = "ADMIN",
-                            OnCreated = new DateTime(2026, 1, 11, 19, 24, 29, 97, DateTimeKind.Utc).AddTicks(2399)
+                            OnCreated = new DateTime(2026, 1, 16, 14, 2, 3, 809, DateTimeKind.Utc).AddTicks(3248)
                         },
                         new
                         {
                             Id = "ROLE_EMPLOYEE",
                             Name = "Employee",
                             NormalizedName = "EMPLOYEE",
-                            OnCreated = new DateTime(2026, 1, 11, 19, 24, 29, 97, DateTimeKind.Utc).AddTicks(2521)
+                            OnCreated = new DateTime(2026, 1, 16, 14, 2, 3, 809, DateTimeKind.Utc).AddTicks(3331)
                         });
                 });
 
